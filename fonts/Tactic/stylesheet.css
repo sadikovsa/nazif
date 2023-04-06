@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Tactic Sans Extended';
+    src: url('TacticSansExd-Med.eot');
+    src: local('Tactic Sans Extended Medium'), local('TacticSansExd-Med'),
+        url('TacticSansExd-Med.eot?#iefix') format('embedded-opentype'),
+        url('TacticSansExd-Med.woff2') format('woff2'),
+        url('TacticSansExd-Med.woff') format('woff'),
+        url('TacticSansExd-Med.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Round Bld';
+    src: url('TacticRound-Bld.eot');
+    src: local('Tactic Round Bld'), local('TacticRound-Bld'),
+        url('TacticRound-Bld.eot?#iefix') format('embedded-opentype'),
+        url('TacticRound-Bld.woff2') format('woff2'),
+        url('TacticRound-Bld.woff') format('woff'),
+        url('TacticRound-Bld.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tactic Sans Extended';
+    src: url('TacticSansExd-Thn.eot');
+    src: local('Tactic Sans Extended Thin'), local('TacticSansExd-Thn'),
+        url('TacticSansExd-Thn.eot?#iefix') format('embedded-opentype'),
+        url('TacticSansExd-Thn.woff2') format('woff2'),
+        url('TacticSansExd-Thn.woff') format('woff'),
+        url('TacticSansExd-Thn.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
